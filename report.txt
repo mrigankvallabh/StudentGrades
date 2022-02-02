@@ -1,0 +1,16 @@
+===================BEGIN REPORT===================
+Report Card
+Student Name: George P. Burdell
+Algebra : B
+Physics : A
+English : C
+GPA: 3.08333
+=====================END REPORT===================
+===================BEGIN REPORT===================
+Report Card
+Student Name: Nancy Rhodes
+Algebra : A
+Physics : A
+Economics : B
+GPA: 3.69231
+=====================END REPORT===================
